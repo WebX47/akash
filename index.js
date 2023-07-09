@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log("Akash Chaterjee");
+console.clear();
+console.log("Akash Chaterjee: 👋Hiii!");
