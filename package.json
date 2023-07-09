@@ -1,6 +1,6 @@
 {
   "name": "hi-akash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "hi-akash": "index.js"
   },

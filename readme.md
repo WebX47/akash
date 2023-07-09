@@ -1,1 +1,1 @@
-just run 'npx akash'
+just run 'npx hi-akash'
