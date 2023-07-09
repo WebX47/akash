@@ -1,1 +1,1 @@
-just run 'npx hi-akash'
+**`just run 'npx hi-akash'`**
