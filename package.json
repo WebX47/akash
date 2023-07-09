@@ -1,6 +1,6 @@
 {
   "name": "hi-akash",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Sasy hi to Akash via `npx hi-akash`",
   "bin": {
     "hi-akash": "index.js"
