@@ -1,6 +1,6 @@
 {
   "name": "akash_on_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "akash": "index.js"
   },
